@@ -35,5 +35,5 @@ li.card>img.card__img+p.card__content
 ![Alt text](footer.png?raw=true "Footer")
 ```
 <!-- footer -->
-footer.footer>ul.footer__contact>li.footer__phone+li.footer__time+li.social-links>a.social-links__link*3>img.social-links__img^^^ul.footer__legal>li.footer__link-item*5>a.footer__link^^ul.footer__app>li.footer__app-item*2>a.footer__app-img
+footer.footer>ul.footer__contact>li.footer__phone+li.footer__time+li.social-links>a.social-links__link*3>img.social-links__img^^^ul.footer__legal>li.footer__link-item*5>a.footer__link^^ul.footer__app>li.footer__app-item*2>a.footer__app-img 
 ```
